@@ -1,1 +1,1 @@
-# QuantitativeAnalysisDiscordBot-
+# QuantitativeAnalysisDiscordBot
